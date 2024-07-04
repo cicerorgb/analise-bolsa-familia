@@ -13,5 +13,5 @@
 ## Execução
 
 - Execute o "main.py"
-- Os arquivos .zip serão descompactados e deletados do diretório "bf_csv"
+- Os arquivos ".zip" serão descompactados e deletados do diretório "bf_csv"
 - Futuramente pode-se fazer o mesmo com os .parquet mensais
